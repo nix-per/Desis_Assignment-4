@@ -28,7 +28,7 @@ Registered Email ID- nikki.gautam@desisascendeducare.in
 
 ## DESCRIPTION:
 
-The assignment consisted of subdivisions among questions on the basis of the topics they were concerned with. 
+The assignment consisted of C++ problems with subdivisions among questions on the basis of the topics they were concerned with. 
 
 Hence, the solution has also been presented in a similar fashion.
 
