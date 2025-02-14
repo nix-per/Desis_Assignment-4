@@ -34,4 +34,4 @@ Hence, the solution has also been presented in a similar fashion.
 
 C++ files containing the same code as the one run on their respective links has been copied into the files, with the same name as that of the problem statement.
 
-The files for "Basic Math" category only contains the solution code and NOT THE driver code, due to restrictions of the GFG Shell Platform. 
+The files for "Basic Math" category only contain the solution code and NOT THE driver code, due to restrictions of the GFG Shell Platform. 
