@@ -6,10 +6,7 @@ Registered Email ID- nikki.gautam@desisascendeducare.in
 ## FILES:
 
 - assignment-4
-  - Basic Ad hoc Problems
-    - Q1_Tsort.cpp
-    - Q2_Fruits.cpp
-    
+  
   - Basic Math
     - Q1_Count_Digits.cpp
     - Q2_Reverse_Digits.cpp
@@ -25,7 +22,16 @@ Registered Email ID- nikki.gautam@desisascendeducare.in
     - Q4_Sets_STL.cpp
     - Q5_Maps_STL.cpp
     - Q6_Deque_STL.cpp
+  - Basic Ad hoc Problems
+    - Q1_Tsort.cpp
+    - Q2_Fruits.cpp 
 
 ## DESCRIPTION:
 
-The assignment had subdivisions among questions on the basis 
+The assignment consisted of subdivisions among questions on the basis of the topics they were concerned with. 
+
+Hence, the solution has also been presented in a similar fashion.
+
+C++ files containing the same code as the one run on their respective links has been copied into the files, with the same name as that of the problem statement.
+
+The files for "Basic Math" category only contains the solution code and NOT THE driver code, due to restrictions of the GFG Shell Platform. 
